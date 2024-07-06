@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: ""
+baseurl: "https://www.nippotica.com"
 url: ""
 permalink: pretty
 markdown: kramdown

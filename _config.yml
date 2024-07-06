@@ -1,8 +1,8 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "https://www.nippotica.com"
-url: ""
+baseurl: ""
+url: "https://www.nippotica.com"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge

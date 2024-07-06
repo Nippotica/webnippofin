@@ -8,4 +8,4 @@ permalink: "/contact/"
 
 - **Email:** <a href="mailto:info@nippotica.com">inquiries@nippotica.com</a>
 - **Phone:** +81 70 8902 8057
-- **Address:** Portal Point FD-02, Garden Place Glass Square, Shibuya-ku Ebisu 4-20-4, Tokyo 150-6090, Japan
+- **Address:** Portal Point FD-02, Garden Place Glass Square, Shibuya-ku, Ebisu 4-20-4, Tokyo 150-6090, Japan

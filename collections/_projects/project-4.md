@@ -2,7 +2,7 @@
 layout: project-right
 title: "Data Quality Management"
 description: "Extract, Label, Transform"
-date: 2024-06-18
+
 weight: 4
 permalink: /projects/project-4
 thumbnail: "/assets/images/gen/projects/nippodqmthumb.webp"

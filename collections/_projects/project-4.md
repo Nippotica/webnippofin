@@ -1,6 +1,6 @@
 ---
 layout: project-right
-title: "Data Quality"
+title: "Data Quality Management"
 description: "Extract, Label, Transform"
 
 weight: 4

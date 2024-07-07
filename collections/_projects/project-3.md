@@ -2,7 +2,7 @@
 layout: project-right
 title: "System Development"
 description: "Delivering solutions in three steps."
-date: 2024-06-17
+
 weight: 2
 thumbnail: "/assets/images/gen/projects/nipposysdevthumb.webp"
 image: "/assets/images/gen/projects/project-3-1.png"

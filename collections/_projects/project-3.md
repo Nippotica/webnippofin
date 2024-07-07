@@ -1,7 +1,7 @@
 ---
 layout: project-right
 title: "System Development"
-description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
+description: "Delivering solutions in three steps."
 
 weight: 2
 thumbnail: "/assets/images/gen/projects/nipposysdevthumb.webp"

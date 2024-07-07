@@ -1,7 +1,7 @@
 ---
 layout: project-right
 title: "Data Quality Management"
-description: "An open source machine learning library written in Python"
+description: "Extract, Label, Transform"
 date: 2024-06-18
 weight: 4
 permalink: /projects/project-4

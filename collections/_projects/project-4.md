@@ -1,10 +1,10 @@
 ---
 layout: project-right
-title: "Data Quality Management"
+title: "Data Quality"
 description: "Extract, Label, Transform"
 
 weight: 4
-permalink: /projects/project-4
+
 thumbnail: "/assets/images/gen/projects/nippodqmthumb.webp"
 
 gallery:

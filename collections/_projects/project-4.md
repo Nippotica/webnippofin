@@ -6,7 +6,6 @@ description: "Extract, Label, Transform"
 weight: 4
 permalink: /projects/project-4
 thumbnail: "/assets/images/gen/projects/nippodqmthumb.webp"
-image: "/assets/images/gen/projects/project-4-1.png"
 
 gallery:
   - image: "/assets/images/gen/projects/nippoticadqm.png"

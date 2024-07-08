@@ -59,8 +59,6 @@ The CDF is:
 
 - **Type II Benktander-Gibrat Distribution (Benktander-Weibull Distribution):** This type is more useful for property-casualty insurance applications. Its parameters \\( a \\) being any positive number and \\( 0 < b \leq 1 \\) make it well-suited for modeling a wide range of property and casualty insurance claims, where the distribution of losses often follows patterns that can be effectively captured by the Benktander-Weibull distribution.
 
-Type II Benktander-Gibrat distribution is sometimes called the Benktander-Weibull distribution because it was initially derived as a special case of the Weibull distribution. The naming convention reflects this historical development and acknowledges the relationship between these distributions.
-
 ### Understanding the Terminology
 
 - **Benktander-Gibrat Distribution:** Both Type I and Type II are often referred to under this umbrella term because they were introduced and developed by Gunnar Benktander and Jean-Marie Gibrat to model empirical mean excess functions more effectively.
@@ -77,7 +75,7 @@ where \\( k \\) is the shape parameter and \\( \lambda \\) is the scale paramete
 
 The Type II Benktander-Gibrat (Benktander-Weibull) distribution can be seen as a transformation of this form, adapted to better model insurance claim data with specific properties that fall between the exponential and Pareto distributions.
 
-### Why Call Type II after Weibull?
+### Why name Type II after Weibull?
 
 When Gunnar Benktander and Jean-Marie Gibrat developed these distributions, they aimed to bridge the gap between the heavy-tailed Pareto and the light-tailed exponential distributions, both of which had limitations in modeling insurance claims. The Type II variant naturally aligned with certain aspects of the Weibull distribution, leading to its alternative name, the Benktander-Weibull distribution. This name helps practitioners recognize its applicability in scenarios where Weibull-like properties are desired, such as in property-casualty insurance.
 

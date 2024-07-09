@@ -75,7 +75,7 @@ where \\( k \\) is the shape parameter and \\( \lambda \\) is the scale paramete
 
 The Type II Benktander-Gibrat (Benktander-Weibull) distribution can be seen as a transformation of this form, adapted to better model insurance claim data with specific properties that fall between the exponential and Pareto distributions.
 
-### Why name Type II after Weibull?
+### Why is Type II named after Weibull?
 
 When Gunnar Benktander and Jean-Marie Gibrat developed these distributions, they aimed to bridge the gap between the heavy-tailed Pareto and the light-tailed exponential distributions, both of which had limitations in modeling insurance claims. The Type II variant naturally aligned with certain aspects of the Weibull distribution, leading to its alternative name, the Benktander-Weibull distribution. This name helps practitioners recognize its applicability in scenarios where Weibull-like properties are desired, such as in property-casualty insurance.
 

@@ -11,7 +11,7 @@ thumbnail: "/assets/images/gen/blog/bsexpirywc.webp"
 
 
 
-Evan Sinclair, the author of Volatility Trading (Wiley, 2013) and the newer Positional Option Trading (Wiley, 2020) has said:
+Euan Sinclair, the author of Volatility Trading (Wiley, 2013) and the newer Positional Option Trading (Wiley, 2020) has said:
 
 > Some people say the Black-Scholes option pricing model breaks near expiration. These people are wrong.
 

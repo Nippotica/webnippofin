@@ -4,7 +4,7 @@ title: "Insuring the Life Insurer"
 date: 2024-04-25
 authors: ["Mike Vance"]
 categories: ["Mathnote", "Technote"]
-description: How insurers bet against themselves
+description: Reinsurance - How insurers bet against themselves
 thumbnail: "/assets/images/gen/blog/reinsurancefig.webp"
 
 ---
@@ -17,21 +17,24 @@ Reinsurance is a risk management tool that life insurance companies use to trans
 The main reinsurance companies worldwide, often referred to as "the big players" in the industry are Munich Re, Swiss Re, Lloyds of London, and Berkshire Hathaway Reinsurance Group.
 
 
-The purpose of reinsurance include risk transfer, capital relief, and solvency improvement.
+The top three goals of reinsurance include risk transfer, capital relief, and solvency improvement.
 
-1. **Risk Transfer:**
+### Risk Transfer
+
 Risk transfer in reinsurance is the process by which an insurer (the ceding company) shifts the financial burden of certain risks to a reinsurer.
 Let \\( L \\) represent the total losses. If an insurer cedes a proportion \\( c \\) of the risk to a reinsurer, the losses retained by the insurer are \\( (1 - c)L \\), and the losses borne by the reinsurer are \\( cL \\).
  
 If the total losses \\( L \\) are $1,000,000 and the ceding proportion \\( c \\) is 0.40, the losses retained by the insurer are \\( (1 - 0.40) \times 1,000,000 = \$600,000 \\) and the losses borne by the reinsurer are \\( 0.40 \times 1,000,000 = \$400,000 \\).
 
-2. **Capital Relief:**
+### Capital Relief
+
 Capital relief refers to the reduction in the required capital that an insurer must hold by transferring risk to a reinsurer.
 Let \\( K \\) be the required capital for a given risk exposure. With reinsurance, the required capital \\( K' \\) is reduced to \\( K' = K(1 - c) \\), where \\( c \\) is the proportion of risk ceded.
  
 If the required capital \\( K \\) is $5,000,000 and the ceding proportion \\( c \\) is 0.50, the new required capital \\( K' \\) is \\( 5,000,000 \times (1 - 0.50) = \$2,500,000 \\).
 
-3. **Improved Solvency:**
+### Improved Solvency
+
 Solvency improvement through reinsurance involves enhancing the financial stability of an insurer by reducing potential large claims and providing additional financial resources from the reinsurer.
 The solvency ratio \\( S \\) is given by \\( S = \frac{A}{L} \\), where \\( A \\) is the total assets and \\( L \\) is the total liabilities. Reinsurance helps improve \\( S \\) by reducing \\( L \\).
  
@@ -46,7 +49,7 @@ Actuaries use several methods and considerations to determine the appropriate am
 Risk assessment involves evaluating the risk characteristics of the insurance portfolio, including mortality rates, policy types, sum assured amounts, and historical claims experience.
 Let \\( X_i \\) represent individual risks, where \\( i = 1, 2, \ldots, n \\). The total risk exposure \\( R \\) is given by \\( R = \sum_{i=1}^n X_i \\). Reinsurance is determined based on the aggregated risk \\( R \\).
  
-If an insurer has 5 policies with individual risks \\( X_1 = 100,000 \\), \\( X_2 = 200,000 \\), \\( X_3 = 150,000 \\), \\( X_4 = 250,000 \\), and \\( X_5 = 300,000 \\), the total risk exposure \\( R \\) is \\( 100,000 + 200,000 + 150,000 + 250,000 + 300,000 = \$1,000,000 \\).
+If an insurer has 5 policies with individual risks \\( X_1 = 100,000 \\), \\( X_2 = 200,000 \\), \\( X_3 = 150,000 \\), \\( X_4 = 250,000 \\), and \\( X_5 = 300,000 \\), the total risk exposure \\( R \\) is \\(  \sum_{i=1}^{5} X_i  = \$1,000,000 \\).
 
 #### Retention Limits
 

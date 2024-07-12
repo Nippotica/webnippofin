@@ -3,7 +3,7 @@ layout: post
 title: "Minding the 'Language' in Insurance"
 date: 2024-04-15
 authors: ["Mike Vance"]
-categories: ["Mathnote", "Technote"]
+categories: ["Mathnote", "Infonote"]
 description: How advanced text understanding systems help insurers
 thumbnail: "/assets/images/gen/blog/llmwc.webp"
 
@@ -13,11 +13,6 @@ thumbnail: "/assets/images/gen/blog/llmwc.webp"
 
 > LLMs analyze data, improve insurance processes.
 
-Large Language Models (LLMs) are promising tools for transforming the insurance industry by improving risk assessment and claim processing. 
-
-In actuarial science, LLMs analyze vast amounts of textual data from medical records and social media to enhance mortality predictions and refine premium calculations. 
-
-In claim processing, LLMs automate the review of accident reports and repair estimates, quickly extracting relevant information and detecting fraud. This leads to faster, more accurate claim resolutions and better customer service, making the insurance process more efficient and reliable.
 
 ### What’s an LLM?
 
@@ -84,6 +79,15 @@ A token is a basic unit of text that a language model processes. Tokens can be w
 
    - Sentence: "I love AI!"
    - Tokens: ["I", "love", "AI", "!"]
+
+
+### LLMs for Insurance
+
+Large Language Models (LLMs) are promising tools for transforming the insurance industry by improving risk assessment and claim processing. 
+
+In actuarial science, LLMs analyze vast amounts of textual data from medical records and social media to enhance mortality predictions and refine premium calculations. 
+
+In claim processing, LLMs automate the review of accident reports and repair estimates, quickly extracting relevant information and detecting fraud. This leads to faster, more accurate claim resolutions and better customer service, making the insurance process more efficient and reliable.
 
 ### LLMs in Life Insurance Actuary
 

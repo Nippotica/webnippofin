@@ -13,7 +13,7 @@ main:
         description: "Cost Optimized"
         url: /projects/project-1/
       - name: "System Development"
-        description: "Right Hardware Software"
+        description: "Right Software Hardware"
         url: /projects/project-3/
       - name: "Data Quality Management"
         description: "Relevant and Adequate"
@@ -24,8 +24,8 @@ main:
   - name: About
     url: /about/
     weight: 3
-  - name: Contact
-    url: /contact/
+  - name: 日本語
+    url: /nihongo/
     weight: 4
   
 
@@ -40,8 +40,8 @@ footer_primary:
     url: /projects/project-4/
 
 footer_secondary:
-  - name: Blog
-    url: /blog/
+  - name: 日本語
+    url: /nihongo/
     weight: 2
   - name: About
     url: /about/

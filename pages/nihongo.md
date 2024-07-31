@@ -96,10 +96,6 @@ description: "	カスタム ソフトウェア開発"
 
 市場全体に影響を与える可能性のあるリスクを理解し管理するための専門的なアドバイスを提供します。 これにより、クライアントがこれらの広範なリスクを認識、評価、軽減するのを支援します。
 
-#### 統計的裁定取引
-
-Nippoticaは、高度な統計手法を用いて、異なる市場や資産の種類における価格の不一致を見つけ出し、それを利用して 利益を得ることを目指します。
-
 > Nippotica のメンバーは、大手銀行、保険会社、投資ファンド、テクノロジー企業にサービスを提供してきた数十年の経験があります。
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/nippocustomers.png" title="" caption="Nippoticaのトラックレコード" %}

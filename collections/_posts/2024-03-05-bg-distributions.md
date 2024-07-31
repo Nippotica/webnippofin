@@ -4,11 +4,11 @@ title: "Unlocking Precision in Insurance"
 date: 2024-03-05
 authors: ["Mike Vance"]
 categories: ["Mathnote", "Technote"]
-description: Balancing precision and flexibility for accurate claims modeling
+description: Capturing nuanced patterns for more accurate claims modeling
 thumbnail: "/assets/images/gen/blog/actuarywc.webp"
 
 ---
-In the 1960s, Swedish actuary Gunnar Benktander found himself grappling with complex insurance claim datasets. He noticed that the prevailing Pareto and exponential distributions failed to capture the nuanced patterns within the data. Driven by the need for a better solution, Benktander secluded himself in his study for an intensive weekend of work. By Monday morning, he had devised the initial version of what would become the Benktander-Gibrat distributions, a revolutionary tool for actuaries.
+In the 1960s, the Swedish actuary Gunnar Benktander found himself grappling with complex insurance claim datasets. He noticed that the prevailing Pareto and exponential distributions failed to capture nuanced patterns within the data. Driven by the need for a better solution, Benktander secluded himself in his study for an intensive weekend of work. By Monday morning, he had devised the initial version of what would become the Benktander-Gibrat distributions, poised to become a revolutionary tool for actuaries.
 
 This groundbreaking development allowed for significantly more precise modeling of loss distributions, particularly in life insurance claims processing. Together with Jean-Marie Gibrat, Benktander aimed to create a distribution that was "intermediate" between the heavy-tailed Pareto and the light-tailed exponential, providing a flexible and accurate representation of loss data. Their innovation has since become a cornerstone in actuarial science, enhancing the industry's ability to assess and manage risk.
 

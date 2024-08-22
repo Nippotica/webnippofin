@@ -17,7 +17,7 @@ gallery:
 
 
 
-At Nippotica, we provide engineering services tailored for financial institutions, with a strong emphasis on optimizing financial computing in the cloud. 
+Nippofin provides engineering services tailored for financial institutions, with a strong emphasis on optimizing financial computing in the cloud. 
 
 Our offerings include:
 
@@ -31,4 +31,4 @@ Design and implement scalable solutions that grow with your business needs, prov
 Fine-tune your financial applications for maximum performance on cloud infrastructure, reducing latency and enhancing computational speed.
 
 
-> Partner with Nippotica to leverage the full potential of cloud computing, transforming your financial operations with speed, efficiency, and innovation.
+> Partner with Nippofin to leverage the full potential of cloud computing, transforming your financial operations with speed, efficiency, and innovation.

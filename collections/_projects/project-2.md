@@ -14,11 +14,11 @@ gallery:
 gallery_limit: 2
 ---
 
-At Nippotica, we specialize in delivering high-performance financial computing solutions tailored to the specific needs of our clients. 
+At Nippofin, we specialize in delivering high-performance financial computing solutions tailored to the specific needs of our clients. 
 
 Our expertise in developing pricing and risk management algorithms ensures you receive efficient and scalable solutions optimized for high-performance computing (HPC) platforms.
 
-By partnering with Nippotica, you gain:
+By partnering with Nippofin, you gain:
 
 - High Performance: Leveraging HPC for fast computations.
 - Scalability: Easily scaling with managed Kubernetes.

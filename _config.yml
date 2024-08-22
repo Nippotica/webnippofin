@@ -115,8 +115,8 @@ fonts:
   logo: "'DM Sans'"
 
 logo:
-  logo_text: "Nippofin"
-  logo_image: assets/images/logo/logo.png
+  logo_text: "NIPPOFIN"
+  logo_image: 
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
   logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png

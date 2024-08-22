@@ -6,6 +6,7 @@ permalink: "/nihongo/"
 description: "	カスタム ソフトウェア開発"
 ---
 
+Nippofin は Nippotica 株式会社の事業部門です。
 
 <style>
     table {

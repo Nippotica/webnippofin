@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: "Welcome to Nippotica"
+title: "Welcome to Nippofin"
 description: "We deliver systems for fast financial computing on clouds."
 meta_description: "Fast Financial Computing"
-meta_title: Nippotica
+meta_title: Nippotica Fintech
 subscribe: false
 
 projects:

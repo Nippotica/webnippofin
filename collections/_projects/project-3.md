@@ -12,7 +12,7 @@ gallery:
   - image: "/assets/images/gen/projects/nipposysdev.webp"
 ---
 
-At Nippotica, we deliver financial computing solutions on your cloud of choice (AWS, Azure, GCP) through a streamlined three-step approach.
+Nippofin delivers financial computing solutions on your cloud of choice (AWS, Azure, GCP) through a streamlined three-step approach.
 
 
 #### Step 1: Requirement Analysis and System Design
@@ -24,4 +24,4 @@ Our developers implement optimized algorithms and data pipelines, using containe
 #### Step 3: Optimization and Maintenance
 Post-deployment, we continuously monitor and optimize system performance, manage costs, and update software to maintain security and compliance. Our proactive approach ensures your system remains robust and efficient.
 
-> Nippotica develops robust, scalable, and cost-effective system solutions tailored to your needs.
+> Nippofin develops robust, scalable, and cost-effective system solutions tailored to your needs.

@@ -115,7 +115,7 @@ fonts:
   logo: "'DM Sans'"
 
 logo:
-  logo_text: "Nippotica"
+  logo_text: "Nippofin"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
@@ -124,8 +124,8 @@ logo:
   logo_image_desktop_width: "146px"
   logo_image_mobile_height: "27px"
   logo_image_mobile_width: "146px"
-  show_logo_image_on_mobile: true
-  show_logo_image_on_desktop: true
+  show_logo_image_on_mobile: false
+  show_logo_image_on_desktop: false
   show_logo_text_on_mobile: false
   show_logo_text_on_desktop: false
 

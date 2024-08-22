@@ -125,7 +125,7 @@ logo:
   logo_image_mobile_height: "27px"
   logo_image_mobile_width: "146px"
   show_logo_image_on_mobile: false
-  show_logo_image_on_desktop: false
+  show_logo_image_on_desktop: true
   show_logo_text_on_mobile: true
   show_logo_text_on_desktop: true
 

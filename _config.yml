@@ -178,7 +178,7 @@ menu:
 
 footer:
   enable_footer: true # show/hide the entire footer
-  footer_title: "Nippotica Corporation"
+  footer_title: "Nippofin = Nippotica's Fintech Business Unit"
   footer_description: "Fast Financial Computing"
   enable_social_media_icons: false
   enable_contact_details: false
@@ -186,7 +186,7 @@ footer:
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: false
   footer_primary_menu_title: "Our Solutions"
-  footer_secondary_menu_title: "Company"
+  footer_secondary_menu_title: "Nippofin"
   footer_tertiary_menu_title: "Other"
 
 bottom:

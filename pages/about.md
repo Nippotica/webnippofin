@@ -1,7 +1,7 @@
 ---
 layout: basic
 title: "About Us"
-date: 2018-11-28T15:15:34+10:00
+date: 2024-06-28T15:15:34+10:00
 permalink: "/about/"
 description: "Decades of experience in the financial sector"
 image: "/assets/images/gen/content/expnippotica.webp"
@@ -9,15 +9,15 @@ image: "/assets/images/gen/content/expnippotica.webp"
 
 ### Our Mission
 
-Nippotica provides tailored, cutting-edge solutions for the financial industry. With expertise in financial engineering, cloud infrastructure, system development, and data quality assurance, we empower financial institutions with innovative tools for derivative pricing, risk management, and investment strategy development.
+As the fintech business unit of Nippotica Corportation, Nippofin provides tailored, cutting-edge solutions for the financial industry. With expertise in financial engineering, cloud infrastructure, system development, and data quality assurance, we empower financial institutions with innovative tools for derivative pricing, risk management, and investment strategy development.
 
 
 > Our team members have served major financial institutions for decades, consistently delivering high-quality, reliable, and compliant data solutions.
 
 
 
-### What Nippotica Does
-At Nippotica, our core operation revolves around the research, development, and maintenance of quantitative models and the associated cloud infrastructure for our clients. 
+### What Nippofin Does
+At Nippofin, our core operation revolves around the research, development, and maintenance of quantitative models and the associated cloud infrastructure for our clients. 
 
 Our work is characterized by a multifaceted approach, combining technical expertise with a deep understanding of client needs. 
 

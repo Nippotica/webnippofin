@@ -13,9 +13,9 @@ gallery:
 
 ---
 
-> Nippotica: Your data's best friend.
+> Nippofin: Your data's best friend.
 
-At Nippotica, we know that high-quality data is essential for financial computing. 
+At Nippofin, we know that high-quality data is essential for financial computing. 
 
 Our Data Quality Management (DQM) services ensure your financial computations are accurate, reliable, and compliant.
 

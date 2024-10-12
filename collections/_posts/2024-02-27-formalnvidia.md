@@ -4,7 +4,7 @@ title: "Formalizing Nvidia Ampere"
 date: 2024-04-12
 
 categories: ["Infonote", "Technote"]
-description: "A structured way to describe the a complex computing engine"
+description: "A structured way to describe a complex computing engine"
 thumbnail: "/assets/images/gen/blog/formalgrid.webp"
 ---
 

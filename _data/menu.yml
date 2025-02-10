@@ -18,7 +18,7 @@ main:
       - name: "Data Quality Management"
         description: "Relevant and Adequate"
         url: /projects/project-4/
-  - name: Blog
+  - name: Insights
     url: /blog/
     weight: 2
   - name: About

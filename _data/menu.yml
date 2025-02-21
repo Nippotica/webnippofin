@@ -24,9 +24,6 @@ main:
   - name: About
     url: /about/
     weight: 3
-  - name: 日本語
-    url: /nihongo/
-    weight: 4
   
 
 footer_primary:

@@ -40,9 +40,6 @@ footer_primary:
     url: /projects/project-4/
 
 footer_secondary:
-  - name: 日本語
-    url: /nihongo/
-    weight: 2
   - name: About
     url: /about/
     weight: 3

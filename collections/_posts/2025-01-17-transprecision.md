@@ -15,6 +15,8 @@ Modern processors, especially NVIDIA’s, have evolved into highly flexible engi
 
 > Yet most software is still written as if we’re stuck in the old days of fixed 64-bit precision.
 
+{% include framework/shortcodes/figure.html src="/assets/images/gen/blog/tcpic.png" title="Floating Point Representations" caption="The challenges is how to switch between these without compromising numerical performance." %}
+
 That’s where Nippotica comes in. We bring the art of precision balancing—once a necessity in chip design—into the world of high-performance computing. By rewriting key parts of software to take advantage of adaptive precision, we make computation leaner, faster, and more efficient. The process is rigorous, but the results are worth it.
 
 ## How Nippotica Makes Your Code Faster (Without Breaking Anything)

@@ -13,9 +13,9 @@ weight: 1
 
 Modern processors, especially NVIDIA’s, have evolved into highly flexible engines capable of running computations in anything from 8-bit to 64-bit floating-point precision. Not just fixed-point integers, but fully adaptable precision floating-point arithmetic. That flexibility unlocks enormous potential across industries—scientific computing, quantitative finance, and computer vision, to name a few.
 
-> Yet most software is still written as if we’re stuck in the old days of fixed 64-bit precision.
-
 {% include framework/shortcodes/figure.html src="/assets/images/gen/blog/tcpic.png" title="Floating Point Representations" caption="The challenges is how to switch between these without compromising numerical performance." %}
+
+> Yet most software is still written as if we’re stuck in the old days of fixed 64-bit precision.
 
 That’s where Nippotica comes in. We bring the art of precision balancing—once a necessity in chip design—into the world of high-performance computing. By rewriting key parts of software to take advantage of adaptive precision, we make computation leaner, faster, and more efficient. The process is rigorous, but the results are worth it.
 

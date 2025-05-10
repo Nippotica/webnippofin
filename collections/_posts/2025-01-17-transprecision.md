@@ -13,13 +13,15 @@ weight: 1
 
 Modern processors, especially NVIDIA’s, have evolved into highly flexible engines capable of running computations in anything from 8-bit to 64-bit floating-point precision. Not just fixed-point integers, but fully adaptable precision floating-point arithmetic. That flexibility unlocks enormous potential across industries—scientific computing, quantitative finance, and computer vision, to name a few.
 
-> Yet most software is still written as if we’re stuck in the old days of fixed 64-bit precision. 
+> Yet most software is still written as if we’re stuck in the old days of fixed 64-bit precision.
 
 That’s where Nippotica comes in. We bring the art of precision balancing—once a necessity in chip design—into the world of high-performance computing. By rewriting key parts of software to take advantage of adaptive precision, we make computation leaner, faster, and more efficient. The process is rigorous, but the results are worth it.
 
 ## How Nippotica Makes Your Code Faster (Without Breaking Anything)
 
-Most developers write code with one goal: make it work. At Nippotica, we take it a step further: make it work faster. And not just a little faster—we optimize the math at its core so your software runs leaner, sharper, and more efficiently. The result? Fewer wasted computing cycles, lower cloud costs, and the same accuracy where it matters. Let’s face it—no one wants their code to be the reason the cloud bill gives the CFO indigestion.
+Most developers write code with one goal: make it work. At Nippotica, we take it a step further: make it work faster. And not just a little faster—we optimize the math at its core so your software runs leaner, sharper, and more efficiently. The result? Fewer wasted computing cycles, lower cloud costs, and the same accuracy where it matters. 
+
+> Let’s face it—no one wants their code to be the reason the cloud bill gives the CFO indigestion.
 
 Here’s how we do it.
 
@@ -45,7 +47,7 @@ Once we’ve optimized the math, it’s time to put it to work—whether that’
 ### Step 6: Monitor, Measure, and Keep It Running Smoothly
 Optimization doesn’t stop at deployment. We monitor real-world performance, track execution times, and make adjustments if needed. If all goes well (and it usually does), your software is now running faster, smarter, and more efficiently than ever.
 
-## Why Nippotica’s Workflow Matters
+> And the Advantage...
 
 Computing power isn’t cheap. And in industries like finance, AI, and engineering, speed is everything. At Nippotica, we don’t just make software run faster—we make it smarter. Every floating-point operation is done at the right level of precision—no more, no less.
 

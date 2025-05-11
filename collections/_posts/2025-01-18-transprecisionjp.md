@@ -26,7 +26,7 @@ TCサービスの場合、図のようなワークフローに従ってプロジ
 
 さらに、TCサービスは、クラウド環境におけるエネルギー消費の削減にも貢献し、企業のサステナビリティ目標の達成を支援します。
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/tcsaves.webp" title="TCのアドバンテージ" caption="AP技術による速向上。" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/blog/tcsaves.webp" title="TCのアドバンテージ" caption="AP技術による速向上。" %}
 
 クラウドコストの軽減と産業用IoT分野におけるチップ最適化は、AI技術の普及を加速させる上で不可欠な要素です。当社は、TCサービスを通じてAP技術を活用することで、両分野において画期的なソリューションを提供します。
 
